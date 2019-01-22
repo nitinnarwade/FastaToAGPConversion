@@ -32,7 +32,7 @@ This perl script will convert WGS assembly file (.fasta format) to Standard AGP 
 		-h
 			print detailed help on consol.
 			This option does not require any argument.
-			(eg. perl code.pl -h).
+			(eg. perl FastaToAGPFileFormatConverter.pl -h).
 			
 		-a
 			Specify the assembly level. This option require an argument.

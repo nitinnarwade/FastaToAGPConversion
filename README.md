@@ -1,4 +1,4 @@
-# Code for Fasta To AGP Format Conversion
+# Code for Fasta to AGP Format Conversion
 
 
 This perl script will convert WGS assembly file (.fasta format) to Standard AGP file format. The rules for format conversion are followed by the NCBI guidelines given <a href="https://www.ncbi.nlm.nih.gov/projects/genome/assembly/agp/AGP_Specification_1_1.pdf">here</a>.
